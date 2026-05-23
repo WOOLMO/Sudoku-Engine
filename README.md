@@ -8,4 +8,4 @@ This Is A Boolean Function Using A Very Basic Solving Algo Which I Call It The C
 Here When The Backtracking Recusrive Appear. We Loop The Whole Grid To Scan It by that We start doing Backtracking by calling And checking the return of the function it self which is a recursive if the return of the recusrive is False. The Methode Changes The Candidates By Zeroing The Matrix Place To Put. And If It Got Exhausted With No Real Solution It Returns False. And When It Loops The Whole Matrix For Zero And Can`t Find It. It Returns True. Once That Happend The Grid Is Solved
 
 
-#(This Sudoku Engine Was Built By Qlr8v AKA WooLMO From Scratch Char Per Char)
+(This Sudoku Engine Was Built By Qlr8v AKA WooLMO From Scratch Char Per Char)
