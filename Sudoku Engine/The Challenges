@@ -1,0 +1,8 @@
+The Main Challenges I Had In This "Challenge":
+1- 
+   Now To Create A Validator Method You Need To Check The Columns, Rows And The 3x3 Box For The Candidate Number if there is no match it returns True Meaning It Could Be Right. The Main Problem Was In The 3x3 Box,
+   So How Can You Tell Which Box The Candidate Is From ? It Took Me Around A Full 15-30 Min To Figure It Out. Its Pretty Easy Actually U just Take The Position Of The 0 Number like x,y then u //3 which means a division.
+   but with a normalization to the irrational weird numbers Its The Magic Of Math You Know What Can This Give Us ? It Give Us The First Element In The Box So We Can Easily Loop In And Scan As Always
+2- 
+   The Solver, Now The Solver Was A Bit Of Waste Of Time At First. Anyways I Make It Using Recursive Calls To "Undo". The Main Challenge Even It Was Kind Of Easy To Solve. Is The Boolean Handling Of the Recursed Function.
+   To Backtrack It And "Undo"
